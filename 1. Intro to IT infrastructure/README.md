@@ -27,11 +27,13 @@ This course is designed to provide students with a comprehensive introduction to
 
 ## **Course Outline:**
 
-### Module 1: Introduction to IT Infrastructure
+### [Module 1: Introduction to IT Infrastructure](https://github.com/Realmlist/IT-Infrastructure-Lessons/blob/main/1.%20Intro%20to%20IT%20infrastructure/Modules/Module%201%20-%20Introduction%20to%20IT%20Infrastructure.md)
 
 - Definition of IT infrastructure
 
 - Importance of IT infrastructure in modern organizations
+
+- Three main types of IT infrastructure
 
 - Discussion questions:
 
