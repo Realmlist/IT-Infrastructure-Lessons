@@ -27,13 +27,11 @@ This course is designed to provide students with a comprehensive introduction to
 
 ## **Course Outline:**
 
-#### Module 1: Introduction to IT Infrastructure
+### Module 1: Introduction to IT Infrastructure
 
 - Definition of IT infrastructure
 
 - Importance of IT infrastructure in modern organizations
-
-- Overview of the course
 
 - Discussion questions:
 
@@ -43,7 +41,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 2: Server Administration Basics
+### Module 2: Server Administration Basics
 
 - Definition of a server and its role in an IT infrastructure
 
@@ -61,7 +59,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 3: Network Fundamentals
+### Module 3: Network Fundamentals
 
 - Definition of networking and network architecture
 
@@ -79,7 +77,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 4: Data Storage and Management
+### Module 4: Data Storage and Management
 
 - Overview of data storage options (HDD, SSD, cloud)
 
@@ -95,7 +93,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 5: Security Fundamentals
+### Module 5: Security Fundamentals
 
 - Definition of security in an IT infrastructure
 
@@ -113,7 +111,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 6: Network Architecture and Design
+### Module 6: Network Architecture and Design
 
 - Overview of network architecture design principles
 
@@ -129,7 +127,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 7: IT Infrastructure Management
+### Module 7: IT Infrastructure Management
 
 - Importance of monitoring and troubleshooting in an IT infrastructure
 
@@ -145,13 +143,13 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-#### Module 8: Case Studies and Group Discussion
+### Module 8: Case Studies and Group Discussion
 
 - Real-world examples of successful IT infrastructures
 
 - Group discussion on designing, implementing, and maintaining a reliable and efficient IT infrastructure
 
 
-#### Module 9: Final Project and Assessment
+### Module 9: Final Project and Assessment
 
 - Students will design and present their own IT infrastructure project (group or solo)
