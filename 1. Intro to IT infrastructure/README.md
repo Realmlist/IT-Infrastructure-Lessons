@@ -61,6 +61,8 @@ This course is designed to provide students with a comprehensive introduction to
   
   - How do you troubleshoot common server issues?
 
+  - What are some key differences between popular Linux server distributions (e.g., Ubuntu, CentOS) and Windows Server?
+
 
 
 ### Module 3: Network Fundamentals
