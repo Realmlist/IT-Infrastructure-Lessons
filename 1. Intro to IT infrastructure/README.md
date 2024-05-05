@@ -27,7 +27,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 ## **Course Outline:**
 
-### [Module 1: Introduction to IT Infrastructure](https://github.com/Realmlist/IT-Infrastructure-Lessons/blob/main/1.%20Intro%20to%20IT%20infrastructure/Modules/Module%201%20-%20Introduction%20to%20IT%20Infrastructure.md)
+### Module 1: Introduction to IT Infrastructure [[Link]](https://github.com/Realmlist/IT-Infrastructure-Lessons/blob/main/1.%20Intro%20to%20IT%20infrastructure/Modules/Module%201%20-%20Introduction%20to%20IT%20Infrastructure.md)
 
 - Definition of IT infrastructure
 
@@ -47,11 +47,13 @@ This course is designed to provide students with a comprehensive introduction to
 
 - Definition of a server and its role in an IT infrastructure
 
-- Types of servers (file, print, web, database)
+- Types of servers
 
 - Basic server administration tasks (installation, configuration, troubleshooting)
 
-- Understanding Windows and Linux operating systems
+- Windows Operating System Fundamentals
+
+- Linux Operating System Fundamentals
 
 - Discussion questions:
 
@@ -65,9 +67,9 @@ This course is designed to provide students with a comprehensive introduction to
 
 - Definition of networking and network architecture
 
-- Types of networks (LAN, WAN, Wi-Fi)
+- Types of networks 
 
-- Network protocols (TCP/IP, DNS, DHCP)
+- Most common network protocols
 
 - Introduction to routers, switches, and firewalls
 
