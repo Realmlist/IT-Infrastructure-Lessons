@@ -43,7 +43,7 @@ This course is designed to provide students with a comprehensive introduction to
 
 
 
-### Module 2: Server Administration Basics
+### Module 2: Server Administration Basics [[Link]](https://github.com/Realmlist/IT-Infrastructure-Lessons/blob/main/1.%20Intro%20to%20IT%20infrastructure/Modules/Module%202%20-%20Server%20Administration%20Basics.md)
 
 - Definition of a server and its role in an IT infrastructure
 
