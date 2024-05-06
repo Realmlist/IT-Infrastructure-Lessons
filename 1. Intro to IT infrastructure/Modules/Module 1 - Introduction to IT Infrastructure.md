@@ -9,7 +9,7 @@ By the end of Module 1, you should have a solid understanding of the concept of 
 
 ## Importance of IT infrastructure in modern organizations:
 
-- In today, technology plays a crucial role in almost every aspect of business. A well-designed IT infrastructure is essential for companies to remain competitive and efficient.
+- Today technology plays a crucial role in almost every aspect of business. A well-designed IT infrastructure is essential for companies to remain competitive and efficient.
 - With the increasing reliance on digital technologies, an organization's IT infrastructure can make all the difference between success and failure.
 
 ## Three main types of IT infrastructure
