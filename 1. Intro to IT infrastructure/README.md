@@ -2,9 +2,6 @@
 
 This introduction to IT infrastructure covers the fundamental concepts, technologies, and best practices that underlie modern computer systems. Students will learn about hardware, software, networks, security measures, server administration, network architecture, data storage, and management.
 
-This course is designed to provide students with a comprehensive introduction to the fundamental concepts, technologies, and best practices that underlie modern computer systems. By the end of this course, students will have gained a solid understanding of IT infrastructure and be able to apply their knowledge in real-world scenarios.
-
-
 ## **Course Objectives:**
 
 - Understand the definition of IT infrastructure and its importance in modern organizations
